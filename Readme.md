@@ -1,24 +1,23 @@
-# assignment02
+## Quiz App
+
+## Description
+Just a nice short app to make a quiz.
+Define your amount of questions, your topic and your difficulty and have a go
+
+## How to use
+Either run npm run serve
+or just go to https://ass02quiz.herokuapp.com/
+
 
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
+vue create quizapp
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## API 
+You have 2 vue components: Config and Questions
+First sets up the quiz and is you starting point where you can define all
+Second is the quiz itself 
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
