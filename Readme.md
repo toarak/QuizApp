@@ -6,7 +6,7 @@ Define your amount of questions, your topic and your difficulty and have a go
 
 ## How to use
 Either run npm run serve
-or just go to https://ass02quiz.herokuapp.com/
+or just go to https://pkass02quizapp.herokuapp.com/
 
 
 ## Project setup
